@@ -1,0 +1,2 @@
+1. Ustanovili MAMP paket (Web Server, MySql Server)
+2. Skachali Wordpress i ustanovili ego
