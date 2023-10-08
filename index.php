@@ -7,7 +7,13 @@
 <body>
 	<h1>Hello George!</h1>
 	<h2>
-	<?php echo "Hello George from PHP";?>
+	<?php 
+	
+	for($i=0; $i<=5; $i++){
+	   echo "Hello George from PHP <br/>";
+	}
+	
+	?>
 	</h2>
 </body>
 </html>
