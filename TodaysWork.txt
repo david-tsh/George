@@ -3,3 +3,4 @@
 	http://localhost/phpmyadmin
 2. Skachali Wordpress i ustanovili ego
    http://localhost/wordpress
+   http://localhost/wordpress/wp-admin/
